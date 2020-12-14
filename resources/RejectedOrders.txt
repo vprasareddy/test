@@ -1,0 +1,190 @@
+Edward Jones 1
+Wells Fargo Advisors 1
+Ameriprise Financial 1
+Wells Fargo Advisors 2
+Charles Schwab 2
+Charles Schwab 3
+TD Ameritrade 2
+Wells Fargo Advisors 3
+Wells Fargo Advisors 4
+Fidelity 4
+National Planning Corporation 4
+Fidelity 5
+Wells Fargo Advisors 6
+Wells Fargo Advisors 5
+Ameriprise Financial 6
+TD Ameritrade 6
+AXA Advisors 7
+Wells Fargo Advisors 8
+Ameriprise Financial 7
+Wells Fargo Advisors 7
+Charles Schwab 8
+National Planning Corporation 8
+Wells Fargo Advisors 9
+Wells Fargo Advisors 10
+Wells Fargo Advisors 11
+null null
+LPL Financial 9
+Wells Fargo Advisors 12
+LPL Financial 10
+Wells Fargo Advisors 13
+Charles Schwab 11
+Edward Jones 11
+Wells Fargo Advisors 14
+Edward Jones 12
+Raymond James Financial 12
+Wells Fargo Advisors 15
+Fidelity 13
+LPL Financial 13
+National Planning Corporation 13
+Wells Fargo Advisors 16
+Wells Fargo Advisors 17
+Wells Fargo Advisors 18
+Wells Fargo Advisors 19
+Raymond James Financial 14
+Wells Fargo Advisors 20
+Wells Fargo Advisors 21
+Wells Fargo Advisors 22
+Ameriprise Financial 15
+LPL Financial 15
+National Planning Corporation 15
+Wells Fargo Advisors 23
+Wells Fargo Advisors 24
+AXA Advisors 16
+Wells Fargo Advisors 25
+Ameriprise Financial 17
+Wells Fargo Advisors 26
+Charles Schwab 18
+Edward Jones 18
+Wells Fargo Advisors 27
+Wells Fargo Advisors 28
+Wells Fargo Advisors 29
+Fidelity 19
+Wells Fargo Advisors 30
+Ameriprise Financial 20
+TD Ameritrade 20
+Wells Fargo Advisors 31
+Wells Fargo Advisors 32
+Wells Fargo Advisors 33
+Charles Schwab 21
+TD Ameritrade 21
+Wells Fargo Advisors 34
+Wells Fargo Advisors 35
+Wells Fargo Advisors 36
+Raymond James Financial 22
+AXA Advisors 22
+Wells Fargo Advisors 37
+AXA Advisors 23
+Wells Fargo Advisors 38
+Fidelity 23
+Raymond James Financial 24
+National Planning Corporation 24
+Wells Fargo Advisors 39
+National Planning Corporation 25
+Wells Fargo Advisors 40
+Wells Fargo Advisors 41
+Fidelity 25
+AXA Advisors 26
+Wells Fargo Advisors 42
+Ameriprise Financial 27
+TD Ameritrade 27
+Wells Fargo Advisors 43
+TD Ameritrade 28
+Wells Fargo Advisors 44
+Wells Fargo Advisors 45
+Wells Fargo Advisors 46
+Wells Fargo Advisors 47
+Wells Fargo Advisors 48
+Wells Fargo Advisors 49
+Wells Fargo Advisors 50
+Wells Fargo Advisors 51
+Wells Fargo Advisors 52
+Wells Fargo Advisors 53
+Wells Fargo Advisors 54
+Wells Fargo Advisors 55
+Wells Fargo Advisors 56
+Wells Fargo Advisors 57
+Wells Fargo Advisors 58
+Wells Fargo Advisors 59
+Wells Fargo Advisors 60
+Wells Fargo Advisors 61
+Wells Fargo Advisors 62
+Wells Fargo Advisors 63
+Fidelity 28
+AXA Advisors 29
+Wells Fargo Advisors 64
+Wells Fargo Advisors 65
+Edward Jones 30
+Ameriprise Financial 30
+Wells Fargo Advisors 66
+Wells Fargo Advisors 67
+Edward Jones 31
+Wells Fargo Advisors 68
+LPL Financial 33
+LPL Financial 34
+Charles Schwab 32
+Edward Jones 32
+Wells Fargo Advisors 69
+Ameriprise Financial 33
+AXA Advisors 33
+Wells Fargo Advisors 70
+TD Ameritrade 34
+Wells Fargo Advisors 71
+Wells Fargo Advisors 72
+Wells Fargo Advisors 73
+Wells Fargo Advisors 74
+Wells Fargo Advisors 75
+Wells Fargo Advisors 76
+Wells Fargo Advisors 77
+Wells Fargo Advisors 78
+Raymond James Financial 35
+Wells Fargo Advisors 79
+TD Ameritrade 36
+National Planning Corporation 36
+Wells Fargo Advisors 80
+National Planning Corporation 37
+Wells Fargo Advisors 81
+Charles Schwab 38
+LPL Financial 38
+Wells Fargo Advisors 82
+TD Ameritrade 39
+Raymond James Financial 39
+Wells Fargo Advisors 83
+Raymond James Financial 40
+Wells Fargo Advisors 84
+TD Ameritrade 41
+Wells Fargo Advisors 85
+National Planning Corporation 41
+Waddell & Reed 1
+LPL Financial 42
+Wells Fargo Advisors 86
+Wells Fargo Advisors 87
+AXA Advisors 43
+Fidelity 42
+Waddell & Reed 2
+Ameriprise Financial 44
+Wells Fargo Advisors 88
+Edward Jones 44
+Ameriprise Financial 45
+Charles Schwab 45
+Wells Fargo Advisors 89
+Wells Fargo Advisors 90
+AXA Advisors 46
+Raymond James Financial 46
+Charles Schwab 46
+AXA Advisors 47
+Wells Fargo Advisors 91
+Wells Fargo Advisors 92
+TD Ameritrade 48
+Wells Fargo Advisors 93
+Wells Fargo Advisors 94
+Edward Jones 49
+Charles Schwab 49
+Ameriprise Financial 50
+Wells Fargo Advisors 95
+Wells Fargo Advisors 96
+Wells Fargo Advisors 97
+Wells Fargo Advisors 98
+Fidelity 50
+Wells Fargo Advisors 99
+Wells Fargo Advisors 100
