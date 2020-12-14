@@ -3,7 +3,7 @@ How to Run in Linux env:
 
 Export PATH  for JAVA_HOME and $JAVA_HOME/bin
 
-cd src
+cd test/src
 
 Compile files:
 
