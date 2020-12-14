@@ -4,13 +4,15 @@ How to Run in Linux env:
 Export PATH  for JAVA_HOME and $JAVA_HOME/bin
 
 cd src
-Compile files
+
+Compile files:
+
 javac -cp "../lib/junit.jar:."  -d "../bin" com/fiexch/orderbook/*.java
 
-Run App
+Run App:
 java -cp "../lib/junit.jar:../bin" com.fiexch.orderbook.App > ../resources/log.txt
 
-Run Unit tests
+Run Unit tests:
 java -cp "../lib/junit.jar:../lib/org.hamcrest.core_1.3.0.v20180420-1519.jar:../bin:." org.junit.runner.JUnitCore com.fiexch.orderbook.TestUtils
 
 
